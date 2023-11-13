@@ -2,10 +2,7 @@
 - 👀 I’m interested in AI & ML
 - 🌱 I’m currently learning Python
 - 📫 How to reach me:
-- Email: 1DT21AI037@dsatm.edu.in
-- My CodeChef account: https://www.codechef.com/users/brian_m_j
-- My HackerRank account: https://www.hackerrank.com/brian_m_j
-- My GeeksforGeeks account: https://auth.geeksforgeeks.org/user/brian_m_j
+- Email: 1DT21AI037@dsatm.edu.in and brianmj02@gmail.com
 
 <!---
 Brian-M-J/Brian-M-J is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
